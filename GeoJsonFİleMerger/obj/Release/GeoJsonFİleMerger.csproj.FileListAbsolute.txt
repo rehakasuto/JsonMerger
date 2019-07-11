@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\GeoJsonFİleMerger\GeoJsonFİleMerger\bin\Release\GeoJsonFİleMerger.exe.config
+C:\Users\asus\source\repos\GeoJsonFİleMerger\GeoJsonFİleMerger\bin\Release\GeoJsonFİleMerger.exe
+C:\Users\asus\source\repos\GeoJsonFİleMerger\GeoJsonFİleMerger\bin\Release\GeoJsonFİleMerger.pdb
+C:\Users\asus\source\repos\GeoJsonFİleMerger\GeoJsonFİleMerger\bin\Release\Newtonsoft.Json.dll
+C:\Users\asus\source\repos\GeoJsonFİleMerger\GeoJsonFİleMerger\bin\Release\Newtonsoft.Json.xml
+C:\Users\asus\source\repos\GeoJsonFİleMerger\GeoJsonFİleMerger\obj\Release\GeoJsonFİleMerger.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\GeoJsonFİleMerger\GeoJsonFİleMerger\obj\Release\GeoJsonFİleMerger.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\GeoJsonFİleMerger\GeoJsonFİleMerger\obj\Release\GeoJsonFİleMerger.csproj.CopyComplete
+C:\Users\asus\source\repos\GeoJsonFİleMerger\GeoJsonFİleMerger\obj\Release\GeoJsonFİleMerger.exe
+C:\Users\asus\source\repos\GeoJsonFİleMerger\GeoJsonFİleMerger\obj\Release\GeoJsonFİleMerger.pdb
